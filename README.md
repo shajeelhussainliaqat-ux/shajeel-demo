@@ -1,2 +1,3 @@
 # shajeel-demo
-shajeel -demo
+This is my first Git Repository
+Author -Shajeel
